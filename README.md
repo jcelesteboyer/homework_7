@@ -20,3 +20,4 @@ Choosing interesting APIs:
 1. FBI Crime Data API - https://crime-data-explorer.fr.cloud.gov/api 
 2. Petfinder API - https://www.petfinder.com/developers/
 
+![Grocery Store RD](https://github.com/jcelesteboyer/homework_7/blob/fc5889f0efe3f04d590031954a367d51665dc0cf/Grocery%20Store%20ERD.png)
